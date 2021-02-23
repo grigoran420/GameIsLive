@@ -1,0 +1,10 @@
+D:\Solution\game is live\bin\Debug\game is live.exe.config
+D:\Solution\game is live\bin\Debug\game is live.exe
+D:\Solution\game is live\bin\Debug\game is live.pdb
+D:\Solution\game is live\obj\Debug\game is live.csprojAssemblyReference.cache
+D:\Solution\game is live\obj\Debug\game_is_live.Form1.resources
+D:\Solution\game is live\obj\Debug\game_is_live.Properties.Resources.resources
+D:\Solution\game is live\obj\Debug\game is live.csproj.GenerateResource.cache
+D:\Solution\game is live\obj\Debug\game is live.csproj.CoreCompileInputs.cache
+D:\Solution\game is live\obj\Debug\game is live.exe
+D:\Solution\game is live\obj\Debug\game is live.pdb
